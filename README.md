@@ -1,2 +1,1 @@
-# state_of_data_2022-on_the_road
-State Of Data 2022 - Notebook analysis
+![Big Mac Index Logo](imgs/big_mac_index_logo.png)
